@@ -7,5 +7,5 @@ printf("C program");
   getch();
 }
 "hello world!"
-  printf("Neha");
+  printf("This is a small change in Program");
   
